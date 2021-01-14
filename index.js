@@ -12,5 +12,5 @@ const tutorials = [
 ];
 
 const titleCased = () => {
-  return tutorials.map(t => t.titleCased())
+  return tutorials.map(t => t.titleCased
 }
